@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AutonomousCarGUI" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1bbd736-e8ca-4645-85d0-51dae1f7410d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1PiqtlGGsGdzOb5gzGcQIP5q5ul" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TCPTest" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SdcGuiStart">
+    <configuration name="SdcGuiStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sdv.gui.SdcGuiStart" />
+      <module name="AutonomousCarGUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sdv.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Run as an Embedded Java application" factoryName="Embedded Linux JVM" nameIsGenerated="true">
+      <option name="classesDirectory" />
+      <option name="hostname" value="Gruppe15-RPi4.local" />
+      <option name="keyPath" value="" />
+      <option name="password" value="gruppe15" />
+      <option name="port" value="1234" />
+      <option name="programArguments" value="" />
+      <option name="runAsRoot" value="true" />
+      <option name="sshPort" value="22" />
+      <option name="username" value="pi" />
+      <option name="usingKey" value="false" />
+      <option name="vmParameters" value="" />
+      <option name="moduleName" value="AutonomousCarGUI" />
+      <option name="mainclass" value="sdv.gui.SdcGuiStart" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Run as an Embedded Java application" factoryName="Embedded Linux JVM">
+      <option name="classesDirectory" />
+      <option name="hostname" value="192.168.0.101" />
+      <option name="keyPath" value="" />
+      <option name="password" value="gruppe15" />
+      <option name="port" value="1234" />
+      <option name="programArguments" value="" />
+      <option name="runAsRoot" value="true" />
+      <option name="sshPort" value="22" />
+      <option name="username" value="pi" />
+      <option name="usingKey" value="false" />
+      <option name="vmParameters" value="" />
+      <option name="moduleName" value="" />
+      <option name="mainclass" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SdcGuiStart" />
+      <item itemvalue="Embedded Linux JVM.Unnamed" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SdcGuiStart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1bbd736-e8ca-4645-85d0-51dae1f7410d" name="Default Changelist" comment="" />
+      <created>1566367481458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566367481458</updated>
+      <workItem from="1566367482769" duration="8000" />
+      <workItem from="1568119728534" duration="586000" />
+      <workItem from="1568120567335" duration="1443000" />
+      <workItem from="1568122038985" duration="6118000" />
+      <workItem from="1568128873550" duration="3135000" />
+      <workItem from="1568134115113" duration="1083000" />
+      <workItem from="1568136499299" duration="1014000" />
+      <workItem from="1568144374591" duration="197000" />
+      <workItem from="1568148121649" duration="319000" />
+      <workItem from="1568148814351" duration="3715000" />
+      <workItem from="1568184057518" duration="132000" />
+      <workItem from="1568184207587" duration="616000" />
+      <workItem from="1568199626005" duration="1679000" />
+      <workItem from="1568301440066" duration="62000" />
+      <workItem from="1568712100011" duration="843000" />
+      <workItem from="1568799363941" duration="1054000" />
+      <workItem from="1569932757429" duration="1958000" />
+      <workItem from="1569946970331" duration="20000" />
+      <workItem from="1570007039946" duration="12464000" />
+      <workItem from="1570083626976" duration="365000" />
+      <workItem from="1570285636007" duration="3706000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sdv/gui/controller/control/sys/ControlSys.java</url>
+          <line>194</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sdv/coupling/CommIn.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

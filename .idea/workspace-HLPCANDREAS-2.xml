@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="AutonomousCarGUI2" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f1bbd736-e8ca-4645-85d0-51dae1f7410d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sdv/gui/controller/control/sys/ControlSys.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+              <folding>
+                <element signature="docComment;class#ControlSys#0" />
+                <element signature="e#2852#2964#0" />
+                <element signature="e#3352#3418#0" />
+                <element signature="e#3352#6426#0" />
+                <element signature="class#3528:6418" />
+                <element signature="docComment;method#leftTrigger#0;class#3528:6418" />
+                <element signature="method#leftTrigger#0;class#3528:6418" />
+                <element signature="e#3906#4035#1" />
+                <element signature="docComment;method#rightTrigger#0;class#3528:6418" />
+                <element signature="method#rightTrigger#0;class#3528:6418" />
+                <element signature="e#4409#4537#1" />
+                <element signature="docComment;method#leftThumbMagnitude#0;class#3528:6418" />
+                <element signature="method#leftThumbMagnitude#0;class#3528:6418" />
+                <element signature="e#5000#5117#1" />
+                <element signature="docComment;method#leftThumbDirection#0;class#3528:6418" />
+                <element signature="method#leftThumbDirection#0;class#3528:6418" />
+                <element signature="e#5493#5680#1" />
+                <element signature="method#sendManualMotorCommand#0;class#3528:6418" />
+                <element signature="e#5953#6170#1" />
+                <element signature="e#6176#6393#1" />
+                <element signature="e#6432#6779#0" />
+                <element signature="e#6542#6637#1" />
+                <element signature="e#6643#6773#1" />
+                <element signature="e#6786#6859#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/jxcapture/image/CaptureDesktops.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="403">
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Desktop[0], size[Width=1920,Height=1080].png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/jxcapture/image/CaptureFullScreen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Desktop[1], size[Width=3840,Height=2160].png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sdv/communication/TCP/TcpCommunication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+              <folding>
+                <element signature="e#656#657#0" expanded="true" />
+                <element signature="e#726#727#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sdv/communication/Ping.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sdv/communication/TCP/TcpClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="236">
+              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+              <folding>
+                <element signature="e#419#420#0" expanded="true" />
+                <element signature="e#468#469#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sdv/communication/TCP/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>left</find>
+      <find>leftThumb</find>
+      <find>rightThumb</find>
+      <find>leftThumbDirection</find>
+      <find>selectControllerInput</find>
+      <find>slider</find>
+      <find>slider.setValue(35);</find>
+      <find>Xboxcontroller</find>
+      <find>x</find>
+      <find>run</find>
+      <find>evt</find>
+      <find>connectedLabel</find>
+      <find>WEBCAM</find>
+      <find>webCamLabel</find>
+      <find>webCamStart</find>
+      <find>STATUS</find>
+      <find>closeSocket</find>
+      <find>doHandleConnectBtn</find>
+      <find>manualModeLabel</find>
+      <find>gamepadControllerImageView</find>
+      <find>EXIT</find>
+      <find>manualSpeed</find>
+      <find>firePropertyChange</find>
+      <find>webCamPort</find>
+      <find>connect</find>
+      <find>doCloseSocket</find>
+      <find>println</find>
+      <find>ipAddress</find>
+      <find>TcpClient</find>
+      <find>getServerResponseTime</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sdv/functions/video/stream/webcam/WebCam.java" />
+        <option value="$PROJECT_DIR$/src/sdv/gui/scenes/ControlSys.fxml" />
+        <option value="$PROJECT_DIR$/src/sdv/communication/TCP/TcpCommunication.java" />
+        <option value="$PROJECT_DIR$/src/sdv/communication/Ping.java" />
+        <option value="$PROJECT_DIR$/src/sdv/communication/TCP/Client.java" />
+        <option value="$PROJECT_DIR$/src/sdv/gui/controller/control/sys/ControlSys.java" />
+        <option value="$PROJECT_DIR$/src/sdv/functions/video/stream/webcam/Screen.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="330" />
+    <option name="y" value="163" />
+    <option name="width" value="1022" />
+    <option name="height" value="720" />
+  </component>
+  <component name="ProjectId" id="1PiqtlGGsGdzOb5gzGcQIP5q5ul" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AutonomousCarGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutonomousCarGUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutonomousCarGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutonomousCarGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutonomousCarGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutonomousCarGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutonomousCarGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutonomousCarGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jxcapture" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutonomousCarGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutonomousCarGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jxcapture" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutonomousCarGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutonomousCarGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jxcapture" type="462c0819:PsiDirectoryNode" />
+              <item name="video" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutonomousCarGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutonomousCarGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sdv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutonomousCarGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutonomousCarGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sdv" type="462c0819:PsiDirectoryNode" />
+              <item name="communication" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutonomousCarGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutonomousCarGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sdv" type="462c0819:PsiDirectoryNode" />
+              <item name="communication" type="462c0819:PsiDirectoryNode" />
+              <item name="TCP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutonomousCarGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutonomousCarGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sdv" type="462c0819:PsiDirectoryNode" />
+              <item name="communication" type="462c0819:PsiDirectoryNode" />
+              <item name="UDP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutonomousCarGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutonomousCarGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sdv" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutonomousCarGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutonomousCarGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sdv" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
+              <item name="misc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutonomousCarGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutonomousCarGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sdv" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
+              <item name="webcam" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutonomousCarGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutonomousCarGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sdv" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutonomousCarGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutonomousCarGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sdv" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutonomousCarGUI" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutonomousCarGUI" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sdv" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+              <item name="scenes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/RPLidar4J-master" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\andreas\OneDrive - NTNU\AutonomousCarGUI\src\sdv\gui\controller\control\sys" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sdv.communication" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\andreas\OneDrive - NTNU\AutonomousCarGUI" />
+      <recent name="C:\Users\andreas\OneDrive - NTNU\AutonomousCarGUI\resources" />
+      <recent name="C:\Users\andreas\OneDrive - NTNU\AutonomousCarGUI\src\sdv\gui\controller\control\sys\images" />
+      <recent name="C:\Users\andreas\OneDrive - NTNU\AutonomousCarGUI\src\sdv\gui\controller\control\sys" />
+      <recent name="C:\Users\andreas\OneDrive - NTNU\AutonomousCarGUI\src\sdv\comm\TCP" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.CaptureDesktop">
+    <configuration name="CaptureDesktop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jxcapture.video.CaptureDesktop" />
+      <module name="AutonomousCarGUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jxcapture.video.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CaptureDesktops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jxcapture.image.CaptureDesktops" />
+      <module name="AutonomousCarGUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jxcapture.image.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CaptureFullScreen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jxcapture.image.CaptureFullScreen" />
+      <module name="AutonomousCarGUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="jxcapture.image.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SdcGuiStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sdv.gui.SdcGuiStart" />
+      <module name="AutonomousCarGUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sdv.gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TEST" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutonomousCarGUI" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TEST" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Run as an Embedded Java application" factoryName="Embedded Linux JVM">
+      <option name="classesDirectory" />
+      <option name="hostname" value="192.168.0.101" />
+      <option name="keyPath" value="" />
+      <option name="password" value="gruppe15" />
+      <option name="port" value="1234" />
+      <option name="programArguments" value="" />
+      <option name="runAsRoot" value="true" />
+      <option name="sshPort" value="22" />
+      <option name="username" value="pi" />
+      <option name="usingKey" value="false" />
+      <option name="vmParameters" value="" />
+      <option name="moduleName" value="" />
+      <option name="mainclass" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.CaptureDesktop" />
+        <item itemvalue="Application.CaptureFullScreen" />
+        <item itemvalue="Application.CaptureDesktops" />
+        <item itemvalue="Application.SdcGuiStart" />
+        <item itemvalue="JUnit.TEST" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1bbd736-e8ca-4645-85d0-51dae1f7410d" name="Default Changelist" comment="" />
+      <created>1566367481458</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566367481458</updated>
+      <workItem from="1566367482769" duration="8000" />
+      <workItem from="1568119728534" duration="586000" />
+      <workItem from="1568120567335" duration="1443000" />
+      <workItem from="1568122038985" duration="6118000" />
+      <workItem from="1568128873550" duration="3135000" />
+      <workItem from="1568134115113" duration="1083000" />
+      <workItem from="1568136499299" duration="1014000" />
+      <workItem from="1568144374591" duration="197000" />
+      <workItem from="1568148121649" duration="319000" />
+      <workItem from="1568148814351" duration="3715000" />
+      <workItem from="1568184057518" duration="132000" />
+      <workItem from="1568184207587" duration="616000" />
+      <workItem from="1568199626005" duration="1679000" />
+      <workItem from="1568301440066" duration="62000" />
+      <workItem from="1568712100011" duration="843000" />
+      <workItem from="1568799363941" duration="1054000" />
+      <workItem from="1569932757429" duration="1958000" />
+      <workItem from="1569946970331" duration="20000" />
+      <workItem from="1570007039946" duration="12464000" />
+      <workItem from="1570083626976" duration="365000" />
+      <workItem from="1570285636007" duration="3256000" />
+      <workItem from="1570291905286" duration="825000" />
+      <workItem from="1570306818205" duration="15066000" />
+      <workItem from="1570381780381" duration="1234000" />
+      <workItem from="1570478171218" duration="6094000" />
+      <workItem from="1570512563520" duration="466000" />
+      <workItem from="1570525011978" duration="11415000" />
+      <workItem from="1570557412266" duration="2223000" />
+      <workItem from="1570603297945" duration="13344000" />
+      <workItem from="1570731901674" duration="9479000" />
+      <workItem from="1570746496987" duration="2000" />
+      <workItem from="1570746656868" duration="1201000" />
+      <workItem from="1570810393980" duration="7162000" />
+      <workItem from="1570872726150" duration="3808000" />
+      <workItem from="1570974963874" duration="238000" />
+      <workItem from="1570975652467" duration="18000" />
+      <workItem from="1570975879550" duration="129000" />
+      <workItem from="1570976453618" duration="309000" />
+      <workItem from="1571000555590" duration="45258000" />
+      <workItem from="1571248771059" duration="5342000" />
+      <workItem from="1571260566791" duration="2000" />
+      <workItem from="1571295997589" duration="1256000" />
+      <workItem from="1571388513985" duration="115000" />
+      <workItem from="1571601192904" duration="234000" />
+      <workItem from="1571601645127" duration="609000" />
+      <workItem from="1571608517764" duration="2317000" />
+      <workItem from="1571636167485" duration="1735000" />
+      <workItem from="1571739570657" duration="194000" />
+      <workItem from="1571740836903" duration="15840000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TEST - 2019.10.16 at 20h 05m 27s.xml">
+      <configuration name="TEST" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25904000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18098818" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32768363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.54977375" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39887005" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32655367" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1772288" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32768363" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.22372882" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39984533" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32655367" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sdv/gui/controller/control/sys/ControlSys.java</url>
+          <line>190</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/sdv/gui/controller/login/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1428">
+          <caret line="82" column="23" selection-start-line="82" selection-start-column="23" selection-end-line="82" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdv/gui/scenes/Login.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="22" column="81" selection-start-line="22" selection-start-column="81" selection-end-line="22" selection-end-column="81" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdv/gui/theme/modena_dark.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdv/functions/misc/ImageDrawer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="docComment;class#ImageDrawer#0" />
+            <element signature="docComment;method#ImageDrawer#0;class#ImageDrawer#0" />
+            <element signature="docComment;method#drawImage#0;class#ImageDrawer#0" />
+            <element signature="docComment;method#doChangeImage#0;class#ImageDrawer#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdv/gui/controller/login/Credentials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdv/communication/UDP/UdpCommunication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdv/gui/scenes/ControlSys.fxml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="234" selection-start-line="16" selection-start-column="234" selection-end-line="16" selection-end-column="234" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdv/gui/SdcGuiStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdv/functions/video/stream/webcam/WebCam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="49" column="64" selection-start-line="49" selection-start-column="64" selection-end-line="49" selection-end-column="64" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdv/functions/gamepad/DigitalCallback.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdv/functions/gamepad/GamepadListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hs_err_pid14688.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdv/communication/UDP/UdpWebCamClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="62" column="30" selection-start-line="62" selection-start-column="23" selection-end-line="62" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/javafx-src.zip!/javafx/fxml/FXMLLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="1657" selection-start-line="1657" selection-end-line="1657" />
+          <folding>
+            <element signature="e#66921#66922#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/javafx-src.zip!/javafx/scene/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="8411" selection-start-line="8411" selection-end-line="8411" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/javafx-src.zip!/javafx/scene/control/Button.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/javafx-src.zip!/javafx/event/Event.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="198" selection-start-line="198" selection-end-line="198" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_221/javafx-src.zip!/javafx/scene/Scene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="2494" selection-start-line="2494" selection-end-line="2494" />
+          <folding>
+            <element signature="e#66572#66573#0" expanded="true" />
+            <element signature="e#66618#66619#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdv/communication/Ping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdv/communication/TCP/TcpCommunication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+          <folding>
+            <element signature="e#656#657#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdv/communication/TCP/TcpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+          <folding>
+            <element signature="e#419#420#0" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdv/communication/TCP/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdv/functions/video/stream/webcam/Screen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sdv/gui/controller/control/sys/ControlSys.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+          <folding>
+            <element signature="docComment;class#ControlSys#0" />
+            <element signature="e#2852#2964#0" />
+            <element signature="e#3352#3418#0" />
+            <element signature="e#3352#6426#0" />
+            <element signature="class#3528:6418" />
+            <element signature="docComment;method#leftTrigger#0;class#3528:6418" />
+            <element signature="method#leftTrigger#0;class#3528:6418" />
+            <element signature="e#3906#4035#1" />
+            <element signature="docComment;method#rightTrigger#0;class#3528:6418" />
+            <element signature="method#rightTrigger#0;class#3528:6418" />
+            <element signature="e#4409#4537#1" />
+            <element signature="docComment;method#leftThumbMagnitude#0;class#3528:6418" />
+            <element signature="method#leftThumbMagnitude#0;class#3528:6418" />
+            <element signature="e#5000#5117#1" />
+            <element signature="docComment;method#leftThumbDirection#0;class#3528:6418" />
+            <element signature="method#leftThumbDirection#0;class#3528:6418" />
+            <element signature="e#5493#5680#1" />
+            <element signature="method#sendManualMotorCommand#0;class#3528:6418" />
+            <element signature="e#5953#6170#1" />
+            <element signature="e#6176#6393#1" />
+            <element signature="e#6432#6779#0" />
+            <element signature="e#6542#6637#1" />
+            <element signature="e#6643#6773#1" />
+            <element signature="e#6786#6859#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desktop[0], size[Width=1920,Height=1080].png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Desktop[1], size[Width=3840,Height=2160].png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jxcapture/image/CaptureDesktops.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/jxcapture/image/CaptureFullScreen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>AutonomousCarGUI2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>pi4j-device-sources</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>AutonomousCarGUI</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
